@@ -8,6 +8,7 @@ Alayna Aurand
 ## Contents
 
 ### Basic Mapping
+Contains weekly assignment submissions for the class
 
 - Week 1 Assignment
    - [First map in ArcGIS Pro](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/e057e516d0eee37ee8b5812418cf4f48e6b7875c/basic-mapping/GEO441_541_Week1_Aurand_Alayna.ipynb)
@@ -15,6 +16,5 @@ Alayna Aurand
 - Week 2 Assignment
    - [Multiple map frames in one map layout](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/e057e516d0eee37ee8b5812418cf4f48e6b7875c/basic-mapping/GEO441_541c_Week2_Aurand_Alayna.ipynb)
 
-## Map Coordinate Basics
-
-- [Understanding map coordinates]()
+### Class Activities
+Contains submissions for in-class assignments
