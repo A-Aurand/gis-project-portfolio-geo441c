@@ -8,8 +8,8 @@ Alayna Aurand
 
 ## Basic Mapping
 
-- [First map in ArcGIS Pro](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/main/basic-mapping/GEO441_541_Week1_Aurand_Alayna.ipynb)
-- [Multiple map frames in one map layout](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/main/basic-mapping/GEO441_541c_Week2_Aurand_Alayna.ipynb)
+- [First map in ArcGIS Pro](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/e057e516d0eee37ee8b5812418cf4f48e6b7875c/basic-mapping/GEO441_541_Week1_Aurand_Alayna.ipynb)
+- [Multiple map frames in one map layout](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/e057e516d0eee37ee8b5812418cf4f48e6b7875c/basic-mapping/GEO441_541c_Week2_Aurand_Alayna.ipynb)
 
 ## Map Coordinate Basics
 
