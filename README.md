@@ -25,8 +25,8 @@ Contains weekly assignment submissions for the class
 - Week 5 Assignment
    - [Querying spatial data and choropleth maps](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/f80a15661d63512238a9479a92a19c4e2db5693f/basic-mapping/GEO441_Week5_Aurand_Alayna.ipynb)
 
-### Class Activities
-Contains submissions for in-class assignments
+### Web mapping
+Contains maps and assignments created through using ArcGIS Online
 
 - Week 8 Activity
    - Using ArcGIS Online options to create an Instant App and [StoryMap Collection](https://storymaps.arcgis.com/collections/a7ab770847e84bbeac66f392e06e0d4a), which will contain all ArcGIS Online Maps moving forward
