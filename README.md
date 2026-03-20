@@ -29,4 +29,4 @@ Contains weekly assignment submissions for the class
 Contains submissions for in-class assignments
 
 - Week 8 Activity
-   - Using ArcGIS Online options to create an Instant App and [StoryMap Collection](https://arcg.is/1arWrX1), which will contain all ArcGIS Online Maps moving forward
+   - Using ArcGIS Online options to create an Instant App and [StoryMap Collection](https://storymaps.arcgis.com/collections/a7ab770847e84bbeac66f392e06e0d4a), which will contain all ArcGIS Online Maps moving forward
