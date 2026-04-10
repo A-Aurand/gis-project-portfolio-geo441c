@@ -24,6 +24,9 @@ Contains weekly assignment submissions for the class
 
 - Week 5 Assignment
    - [Querying spatial data and choropleth maps](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/f80a15661d63512238a9479a92a19c4e2db5693f/basic-mapping/GEO441_Week5_Aurand_Alayna.ipynb)
+ 
+- Week 10 Assignment
+   - [Calculating NDVI and using Zonal Statistics](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/73bf8ca9b70e3ad2589cbac79f1cc88e1d8ef057/basic-mapping/GEO441_Week10_Aurand_Alayna.ipynb)
 
 ### Web mapping
 Contains maps and assignments created through using ArcGIS Online
