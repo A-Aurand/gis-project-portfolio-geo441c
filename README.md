@@ -11,25 +11,37 @@ Alayna Aurand
 Contains weekly assignment submissions for the class
 
 - Week 1 Assignment
-   - [First map in ArcGIS Pro](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/e057e516d0eee37ee8b5812418cf4f48e6b7875c/basic-mapping/GEO441_541_Week1_Aurand_Alayna.ipynb)
+   - [First map in ArcGIS Pro](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/6e993e18bb3370c8fdb68eea0e7eaa3f4e36e59e/basic-mapping/GEO441_Week1_Aurand_Alayna.ipynb)
 
 - Week 2 Assignment
-   - [Multiple map frames in one layout](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/e057e516d0eee37ee8b5812418cf4f48e6b7875c/basic-mapping/GEO441_541c_Week2_Aurand_Alayna.ipynb)
+   - [Multiple map frames in one layout](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/6e993e18bb3370c8fdb68eea0e7eaa3f4e36e59e/basic-mapping/GEO441_Week2_Aurand_Alayna.ipynb)
  
 - Week 3 Assignment
-   - [Multiple projections within one layout](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/f80a15661d63512238a9479a92a19c4e2db5693f/basic-mapping/GEO441_Week3_Aurand_Alayna.ipynb)
+   - [Multiple projections within one layout](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/6e993e18bb3370c8fdb68eea0e7eaa3f4e36e59e/basic-mapping/GEO441_Week3_Aurand_Alayna.ipynb)
  
 - Week 4 Assignment
-   - [Georeferencing a map](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/f80a15661d63512238a9479a92a19c4e2db5693f/basic-mapping/GEO441_Week4activity_Aurand_Alayna.ipynb)
+   - [Georeferencing a map](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/6e993e18bb3370c8fdb68eea0e7eaa3f4e36e59e/basic-mapping/GEO441_Week4_Aurand_Alayna.ipynb)
+
+
+### Vector Analysis
+Contains weekly assignment submissions for the class that focus on vector analysis
 
 - Week 5 Assignment
-   - [Querying spatial data and choropleth maps](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/f80a15661d63512238a9479a92a19c4e2db5693f/basic-mapping/GEO441_Week5_Aurand_Alayna.ipynb)
+   - [Querying spatial data and choropleth maps](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/6e993e18bb3370c8fdb68eea0e7eaa3f4e36e59e/vector-analysis/GEO441_Week5_Aurand_Alayna.ipynb)
  
+- Week 11 Assignment
+   - [In Progress] 
+
+
+### Raster Analysis
+Contains weekly assignment submissions for the class that focus on raster analysis
+
 - Week 10 Assignment
-   - [Calculating NDVI and using Zonal Statistics](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/73bf8ca9b70e3ad2589cbac79f1cc88e1d8ef057/basic-mapping/GEO441_Week10_Aurand_Alayna.ipynb)
+   - [Calculating NDVI and using Zonal Statistics](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/6e993e18bb3370c8fdb68eea0e7eaa3f4e36e59e/raster-analysis/GEO441_Week10_Aurand_Alayna.ipynb)
+
 
 ### Web mapping
-Contains maps and assignments created through using ArcGIS Online
+Contains maps and assignments created through ArcGIS Online
 
 - Week 8 Activity
    - Using ArcGIS Online options to create an Instant App and [StoryMap Collection](https://storymaps.arcgis.com/collections/a7ab770847e84bbeac66f392e06e0d4a), which will contain all ArcGIS Online Maps moving forward
