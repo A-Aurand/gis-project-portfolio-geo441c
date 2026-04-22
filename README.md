@@ -11,7 +11,7 @@ Alayna Aurand
 Contains weekly assignment submissions for the class
 
 - Week 1 Assignment
-   - [First map in ArcGIS Pro](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/ac03068abb7b542bc4e31bf47e1909a0f644a521/basic-mapping/CloquetForestryCenter_BasicMapElements.ipynb)
+   - [Basic map elements for first map in ArcGIS Pro](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/ac03068abb7b542bc4e31bf47e1909a0f644a521/basic-mapping/CloquetForestryCenter_BasicMapElements.ipynb)
 
 - Week 2 Assignment
    - [Multiple map frames in one layout](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/ac03068abb7b542bc4e31bf47e1909a0f644a521/basic-mapping/CloquetVegetation_MultipleMapFrames.ipynb)
@@ -37,11 +37,11 @@ Contains weekly assignment submissions for the class that focus on vector analys
 Contains weekly assignment submissions for the class that focus on raster analysis
 
 - Week 10 Assignment
-   - [Calculating NDVI and using Zonal Statistics](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/e8d4eace4a9ad5f76056283b18a0cd37ead9b35b/raster-analysis/ThomasFire_NDVIAndZonalStatistics.ipynb)
+   - [Calculating NDVI and Zonal Statistics](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/e8d4eace4a9ad5f76056283b18a0cd37ead9b35b/raster-analysis/ThomasFire_NDVIAndZonalStatistics.ipynb)
 
 
 ### Web mapping
 Contains maps and assignments created through ArcGIS Online
 
 - Week 8 Activity
-   - Using ArcGIS Online options to create an Instant App and [StoryMap Collection](https://storymaps.arcgis.com/collections/a7ab770847e84bbeac66f392e06e0d4a), which will contain all ArcGIS Online Maps moving forward
+   - Using ArcGIS Online options to create an Instant App and [StoryMap Collection](https://storymaps.arcgis.com/collections/a7ab770847e84bbeac66f392e06e0d4a)
