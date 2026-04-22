@@ -37,7 +37,7 @@ Contains weekly assignment submissions for the class that focus on vector analys
 Contains weekly assignment submissions for the class that focus on raster analysis
 
 - Week 10 Assignment
-   - [Calculating NDVI and using Zonal Statistics](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/6e993e18bb3370c8fdb68eea0e7eaa3f4e36e59e/raster-analysis/GEO441_Week10_Aurand_Alayna.ipynb)
+   - [Calculating NDVI and using Zonal Statistics](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/e8d4eace4a9ad5f76056283b18a0cd37ead9b35b/raster-analysis/ThomasFire_NDVIAndZonalStatistics.ipynb)
 
 
 ### Web mapping
