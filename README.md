@@ -11,26 +11,26 @@ Alayna Aurand
 Contains weekly assignment submissions for the class
 
 - Week 1 Assignment
-   - [Basic map elements for first map in ArcGIS Pro](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/ac03068abb7b542bc4e31bf47e1909a0f644a521/basic-mapping/CloquetForestryCenter_BasicMapElements.ipynb)
+   - [Basic map elements for first map in ArcGIS Pro](basic-mapping/CloquetForestryCenter_BasicMapElements.ipynb)
 
 - Week 2 Assignment
-   - [Multiple map frames in one layout](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/ac03068abb7b542bc4e31bf47e1909a0f644a521/basic-mapping/CloquetVegetation_MultipleMapFrames.ipynb)
+   - [Multiple map frames in one layout](basic-mapping/CloquetVegetation_MultipleMapFrames.ipynb)
  
 - Week 3 Assignment
-   - [Multiple projections within one layout](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/ac03068abb7b542bc4e31bf47e1909a0f644a521/basic-mapping/MinnesotaCounties_DifferentProjections.ipynb)
+   - [Multiple projections within one layout](basic-mapping/MinnesotaCounties_DifferentProjections.ipynb)
  
 - Week 4 Assignment
-   - [Georeferencing a map](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/ac03068abb7b542bc4e31bf47e1909a0f644a521/basic-mapping/HistoricalOxfordMap_Georeferencing.ipynb)
+   - [Georeferencing a map](basic-mapping/HistoricalOxfordMap_Georeferencing.ipynb)
 
 
 ### Vector Analysis
 Contains weekly assignment submissions for the class that focus on vector analysis
 
 - Week 5 Assignment
-   - [Querying spatial data and choropleth maps](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/ac03068abb7b542bc4e31bf47e1909a0f644a521/vector-analysis/SoilFertility%26AgeIndex_TableDataCalculations.ipynb)
+   - [Querying spatial data and choropleth maps](vector-analysis/SoilFertility&AgeIndex_TableDataCalculations.ipynb)
  
 - Week 11 Assignment
-   - [Buffer analysis on point data](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/ac03068abb7b542bc4e31bf47e1909a0f644a521/vector-analysis/JohnSnow_GeospatialAnalysis_Buffers.ipynb)
+   - [Buffer analysis on point data](vector-analysis/JohnSnow_GeospatialAnalysis_Buffers.ipynb)
 
 
 ### Raster Analysis
