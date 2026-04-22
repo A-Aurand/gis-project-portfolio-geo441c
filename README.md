@@ -11,26 +11,26 @@ Alayna Aurand
 Contains weekly assignment submissions for the class
 
 - Week 1 Assignment
-   - [First map in ArcGIS Pro](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/6e993e18bb3370c8fdb68eea0e7eaa3f4e36e59e/basic-mapping/GEO441_Week1_Aurand_Alayna.ipynb)
+   - [First map in ArcGIS Pro](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/ac03068abb7b542bc4e31bf47e1909a0f644a521/basic-mapping/CloquetForestryCenter_BasicMapElements.ipynb)
 
 - Week 2 Assignment
-   - [Multiple map frames in one layout](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/6e993e18bb3370c8fdb68eea0e7eaa3f4e36e59e/basic-mapping/GEO441_Week2_Aurand_Alayna.ipynb)
+   - [Multiple map frames in one layout](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/ac03068abb7b542bc4e31bf47e1909a0f644a521/basic-mapping/CloquetVegetation_MultipleMapFrames.ipynb)
  
 - Week 3 Assignment
-   - [Multiple projections within one layout](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/6e993e18bb3370c8fdb68eea0e7eaa3f4e36e59e/basic-mapping/GEO441_Week3_Aurand_Alayna.ipynb)
+   - [Multiple projections within one layout](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/ac03068abb7b542bc4e31bf47e1909a0f644a521/basic-mapping/MinnesotaCounties_DifferentProjections.ipynb)
  
 - Week 4 Assignment
-   - [Georeferencing a map](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/6e993e18bb3370c8fdb68eea0e7eaa3f4e36e59e/basic-mapping/GEO441_Week4_Aurand_Alayna.ipynb)
+   - [Georeferencing a map](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/ac03068abb7b542bc4e31bf47e1909a0f644a521/basic-mapping/HistoricalOxfordMap_Georeferencing.ipynb)
 
 
 ### Vector Analysis
 Contains weekly assignment submissions for the class that focus on vector analysis
 
 - Week 5 Assignment
-   - [Querying spatial data and choropleth maps](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/6e993e18bb3370c8fdb68eea0e7eaa3f4e36e59e/vector-analysis/GEO441_Week5_Aurand_Alayna.ipynb)
+   - [Querying spatial data and choropleth maps](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/ac03068abb7b542bc4e31bf47e1909a0f644a521/vector-analysis/SoilFertility%26AgeIndex_TableDataCalculations.ipynb)
  
 - Week 11 Assignment
-   - [In Progress] 
+   - [Buffer analysis on point data](https://github.com/A-Aurand/gis-project-portfolio-geo441c/blob/ac03068abb7b542bc4e31bf47e1909a0f644a521/vector-analysis/JohnSnow_GeospatialAnalysis_Buffers.ipynb)
 
 
 ### Raster Analysis
