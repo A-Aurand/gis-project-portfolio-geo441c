@@ -32,6 +32,9 @@ Contains weekly assignment submissions for the class that focus on vector analys
 - Week 11 Assignment
    - [Buffer analysis on point data](vector-analysis/JohnSnow_GeospatialAnalysis_Buffers.ipynb)
 
+ - Week 13 Assignment
+   - [Joining Geodatabases to compiled census data](vector-analysis/SchoolPop&PovertyLine_CensusDataJoins.ipynb)
+
 
 ### Raster Analysis
 Contains weekly assignment submissions for the class that focus on raster analysis
