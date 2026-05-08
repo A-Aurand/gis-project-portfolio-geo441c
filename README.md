@@ -43,8 +43,13 @@ Contains weekly assignment submissions for the class that focus on raster analys
    - [Calculating NDVI and Zonal Statistics](raster-analysis/ThomasFire_NDVIAndZonalStatistics.ipynb)
 
 
-### Web mapping
+### Web Mapping
 Contains maps and assignments created through ArcGIS Online
 
 - Week 8 Activity
    - Using ArcGIS Online options to create an Instant App and [StoryMap Collection](https://storymaps.arcgis.com/collections/a7ab770847e84bbeac66f392e06e0d4a)
+ 
+### Final Project
+Material created for class final project
+
+- Final Project Deliverable: [Storymap](https://arcg.is/1GqXrS2)
